@@ -1,0 +1,10 @@
+.navbar{
+    padding: 20px;
+    text-decoration: none;
+}
+.addbtn{
+    border-radius: 0px;
+    color: white;
+    background-color: blueviolet;
+    text-decoration: none;
+}

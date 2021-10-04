@@ -1,0 +1,22 @@
+.recordheader{
+    padding: 10px;
+    /* margin: 20px; */
+    background-color: blueviolet;
+    color: white;
+}
+.recordlist{
+    padding: 5px;
+    /* margin: 20px; */
+    align-items: center;
+
+}
+.headerC{
+    margin: 20px;
+    padding: 10px;
+}
+.addbtn{
+    border-radius: 0px;
+    color: white;
+    background-color: blueviolet;
+    text-decoration: none;
+}
