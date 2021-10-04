@@ -14,6 +14,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+### `click add records`
+
+once you have clicked add records , you will get input fields to fill up information 
+you will first need to put seacrh key words to select the university from the dropdown. 
+
+### `Click Submit`
+
+After the information is provided, click submit button and the same will reflect in the body shown below.
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
